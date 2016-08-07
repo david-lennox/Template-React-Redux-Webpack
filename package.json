@@ -1,0 +1,33 @@
+{
+  "name": "template-react-redux-webpack",
+  "version": "1.0.0",
+  "description": "bare bones template for starting a project with title technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://david-lennox@github.com/david-lennox/Template-React-Redux-Webpack.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "redux"
+  ],
+  "author": "David Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-lennox/Template-React-Redux-Webpack/issues"
+  },
+  "homepage": "https://github.com/david-lennox/Template-React-Redux-Webpack#readme",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.1"
+  }
+}
